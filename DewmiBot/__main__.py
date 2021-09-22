@@ -72,7 +72,7 @@ I can manage your  group with lots of useful features, feel free to add me to yo
 
 ✨ Pọwẹrẹɗ Ɓy : @SL_bot_zone
 ✮───────────────✮
-🌟 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 : @supunmabot
+🌟 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 : @Dileepa_Malshan
 ✮───────────────✮
 """
 
