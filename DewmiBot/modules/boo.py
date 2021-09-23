@@ -1,6 +1,6 @@
 __help__ = """
-@szrosebot🇱🇰
+Pinki Bot
 ** book  **
- ❍ /book  <book name > : Search any book useing this bot  
+ ❍ /sbook  <book name > : Search any book useing this bot  
 """
 __mod_name__ = "Books "

@@ -66,7 +66,7 @@ def ban(update: Update, context: CallbackContext) -> str:
 
     if is_user_ban_protected(chat, user_id, member) and user not in DEV_USERS:
         if user_id == OWNER_ID:
-            message.reply_text("Are you mad supun is my owner I will fuck you 😈")
+            message.reply_text("Are you mad pro coader is my owner I will fuck you 😈")
             return log_message
         elif user_id in DEV_USERS:
             message.reply_text("I can't act against our own.")
@@ -594,7 +594,7 @@ def selfunban(context: CallbackContext, update: Update) -> str:
 
 
 __help__ = """
-@szrosebot🇱🇰
+Pinki Bot
 *Kicks:*
  ❍ /kick <userhandle>*:* Kicks a user out of the group, (via handle, or reply)
  ❍ /skick <userhandle>*:* Silently kicks a user out of the group, (via handle, or reply)

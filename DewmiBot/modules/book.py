@@ -1,8 +1,7 @@
-# Copyright (C) 2020 DevsExpo
-# Copyright (C) 2021 Inuka Asith
-# Copyright (C) 2021 TeamDaisyX
 
-# This file is part of Daisy (Telegram Bot)
+# Copyright (C) 2021 Pinki Bot
+
+# This file is part of Pinki (Telegram Bot)
 
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU Affero General Public License as
@@ -64,14 +63,14 @@ async def _(event):
                 f.write("\n" + title)
                 f.write("\nBook link:- " + link + "\n\n")
 
-        f.write("By @szrosebot.")
+        f.write("By Pinki Bot.")
         f.close()
-        caption = "A collabration with Friday.\n Join Support @slbotzone"
+        caption = "A collabration with Friday."
 
         await tbot.send_file(
             event.chat_id,
             "book.txt",
-            caption=f"**BOOKS GATHERED SUCCESSFULLY!**\n\nBY @szrosebot🇱🇰.\n\n JOIN THE UPDATE 👉 @szroseupdates.",
+            caption=f"**BOOKS GATHERED SUCCESSFULLY!**\n\nBY Pinki Bot.",
         )
         os.remove("book.txt")
         await KkK.delete()
