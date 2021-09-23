@@ -66,7 +66,7 @@ from DewmiBot.modules.system_stats import bot_sys_stats
 
 
 PM_START_TEXT = """
-Hey there!👋  My name is Rose ✨
+Hey there!👋  My name is Dileepa  ✨
 
 I can manage your  group with lots of useful features, feel free to add me to your group.
 
